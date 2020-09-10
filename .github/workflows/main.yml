@@ -35,7 +35,7 @@ jobs:
         uses: anmol098/waka-readme-stats@V3
         with:
           # GitHub access token with Repo scope
-          GH_TOKEN: ${{ secret.GH_TOKEN }}
+          GH_TOKEN: ${{secret.GH_TOKEN}}
           # Your Wakatime API Key
-          WAKATIME_API_KEY: ${{ secret.WAKA_APIKEY }}
+          WAKATIME_API_KEY: ${{secret.WAKA_APIKEY}}
           
