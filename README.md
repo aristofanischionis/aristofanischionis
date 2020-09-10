@@ -39,61 +39,19 @@ const aristofanischionis = {
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 256 Contributions in the year 2020
+> 🏆 262 Contributions in the Year 2020
  > 
 > 📦 177.2 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 34 Public repositories
+> 📜 34 Public Repositories
  > 
-> 🔑 9 Private repositories 
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    45 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.85% 
-🌆 Daytime    149 commits    ██████████████░░░░░░░░░░░   55.81% 
-🌃 Evening    71 commits     ██████░░░░░░░░░░░░░░░░░░░   26.59% 
-🌙 Night      2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.75%
-
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday       66 commits     ██████░░░░░░░░░░░░░░░░░░░   24.72% 
-Tuesday      44 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.48% 
-Wednesday    83 commits     ███████░░░░░░░░░░░░░░░░░░   31.09% 
-Thursday     36 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.48% 
-Friday       12 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.49% 
-Saturday     4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.5% 
-Sunday       22 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.24%
-
-```
-
-
-📊 **This Week I Spend My Time On** 
-
-```text
-⌚︎ Time zone: Europe/Paris
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Code Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
+> 🔑 9 Private Repositories 
 
 **I Mostly Code in C** 
 
