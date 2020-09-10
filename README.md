@@ -7,7 +7,8 @@
 ![GitHub followers](https://img.shields.io/github/followers/aristofanischionis?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=aristofanischionis.aristofanischionis)
 
-### <img src="https://media.giphy.com/media/6kvVGhp7bp2WA/giphy.gif" width="300">  
+### <img src="https://media.giphy.com/media/6kvVGhp7bp2WA/giphy.gif" width="400">  
+
 
 ```javascript
 const aristofanischionis = {
@@ -26,7 +27,7 @@ const aristofanischionis = {
         databases: ["mongo", "MySql", "sqlite"],
         blockchain: ["Solidity Contracts", "Web3", "Truffle", "Ganache-cli"]
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    architecture: ["Single page applications"],
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
