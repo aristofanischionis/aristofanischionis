@@ -3,7 +3,7 @@
 
 <p><em>Former Software Engineer at <a href="https://home.cern/">CERN</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
-<p>:star2: Developed the <a href="https://github.com/cern/slides">CERN Slides App</a>, an open-source web-based Slides creator. :star2:</p>
+<p>:star2: Developed the <a href="https://github.com/cern/slides">CERN Slides App</a>, an open-source web-based Slides creator :star2:</p>
 <p>and wrote my <a href="https://cds.cern.ch/record/2724152?ln=en">Thesis</a> on it! :mortar_board:</p>
 
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-aristofanischionis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aristofanischionis/)](https://www.linkedin.com/in/aristofanischionis/)
