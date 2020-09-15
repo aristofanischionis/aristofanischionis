@@ -9,7 +9,6 @@
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-aristofanischionis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aristofanischionis/)](https://www.linkedin.com/in/aristofanischionis/)
 ![GitHub followers](https://img.shields.io/github/followers/aristofanischionis?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=aristofanischionis.aristofanischionis)
-![Waka Readme](https://github.com/aristofanischionis/aristofanischionis/workflows/Waka%20Readme/badge.svg?branch=master)
 
 ### <img src="https://media.giphy.com/media/6kvVGhp7bp2WA/giphy.gif" width="400">  
 
