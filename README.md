@@ -38,11 +38,9 @@ const aristofanischionis = {
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
-
 **🐱 My Github Data** 
 
-> 🏆 262 Contributions in the Year 2020
+> 🏆 268 Contributions in the Year 2020
  > 
 > 📦 177.2 kB Used in Github's Storage 
  > 
@@ -63,10 +61,6 @@ Python                   2 repos             █░░░░░░░░░░�
 
 ```
 
-
-**Timeline**
-
-![Chart not found](https://github.com/aristofanischionis/aristofanischionis/blob/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
