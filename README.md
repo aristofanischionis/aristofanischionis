@@ -53,11 +53,11 @@ const aristofanischionis = {
 **I Mostly Code in C** 
 
 ```text
-C                        10 repos            █████████░░░░░░░░░░░░░░░░   38.46% 
-JavaScript               9 repos             ████████░░░░░░░░░░░░░░░░░   34.62% 
-HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.69% 
-TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.69% 
-Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.69%
+C                        10 repos            █████████░░░░░░░░░░░░░░░░   37.04% 
+JavaScript               9 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.41% 
+TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.41% 
+Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.41%
 
 ```
 
