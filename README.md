@@ -40,15 +40,15 @@ const aristofanischionis = {
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 268 Contributions in the Year 2020
+> 🏆 297 Contributions in the Year 2020
  > 
 > 📦 202.8 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 34 Public Repositories
+> 📜 35 Public Repositories
  > 
-> 🔑 9 Private Repositories 
+> 🔑 8 Private Repositories 
 
 **I Mostly Code in C** 
 
