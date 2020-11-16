@@ -30,11 +30,11 @@ const aristofanischionis = {
 ```
 
 <!--START_SECTION:waka-->
-**:octocat: My Github Data** 
+**🐱 My Github Data** 
 
-> 🏆 297 Contributions in the Year 2020
+> 🏆 300 Contributions in the Year 2020
  > 
-> 📦 202.8 kB Used in Github's Storage 
+> 📦 202.9 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
