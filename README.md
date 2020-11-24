@@ -47,9 +47,9 @@ const aristofanischionis = {
 ```text
 C                        10 repos            █████████░░░░░░░░░░░░░░░░   35.71% 
 JavaScript               9 repos             ████████░░░░░░░░░░░░░░░░░   32.14% 
+Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.71% 
 HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.14% 
-TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.14% 
-Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.14%
+TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.14%
 
 ```
 
