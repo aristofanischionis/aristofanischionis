@@ -57,4 +57,5 @@ TypeScript               2 repos             █░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 **These Readme stats are generated using the github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
-[![bitcoin-qrcode-black](https://github.com/aristofanischionis/aristofanischionis/blob/master/bitcoin-donate-qrcode-black.png)](https://raw.githubusercontent.com/aristofanischionis/aristofanischionis/master/bitcoin-address.txt)
+<!--[![bitcoin-qrcode-black](https://github.com/aristofanischionis/aristofanischionis/blob/master/bitcoin-donate-qrcode-black.png)](https://raw.githubusercontent.com/aristofanischionis/aristofanischionis/master/bitcoin-address.txt)
+-->
