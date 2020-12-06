@@ -38,9 +38,9 @@ const aristofanischionis = {
  > 
 > 💼 Opted to Hire
  > 
-> 📜 36 Public Repositories
+> 📜 36 Public Repositories 
  > 
-> 🔑 8 Private Repositories 
+> 🔑 8 Private Repositories  
 
 **I Mostly Code in C** 
 
