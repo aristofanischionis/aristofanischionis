@@ -34,7 +34,7 @@ const aristofanischionis = {
 
 > 🏆 311 Contributions in the Year 2020
  > 
-> 📦 203.4 kB Used in Github's Storage 
+> 📦 203.5 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
