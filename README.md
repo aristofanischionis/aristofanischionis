@@ -32,7 +32,7 @@ const aristofanischionis = {
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 312 Contributions in the Year 2020
+> 🏆 0 Contributions in the Year 2021
  > 
 > 📦 204.0 kB Used in Github's Storage 
  > 
