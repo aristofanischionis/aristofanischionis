@@ -32,13 +32,13 @@ const aristofanischionis = {
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 1 Contributions in the Year 2021
+> 🏆 2 Contributions in the Year 2021
  > 
 > 📦 209.8 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 39 Public Repositories 
+> 📜 40 Public Repositories 
  > 
 > 🔑 9 Private Repositories  
  > 
