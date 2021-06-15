@@ -34,7 +34,7 @@ const aristofanischionis = {
 
 > 🏆 28 Contributions in the Year 2021
  > 
-> 📦 272.9 kB Used in Github's Storage 
+> 📦 273.0 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -55,7 +55,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 14/06/2021
+ Last Updated on 15/06/2021
 <!--END_SECTION:waka-->
 **These Readme stats are generated using the github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**. 
 
