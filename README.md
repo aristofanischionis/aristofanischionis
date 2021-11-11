@@ -34,28 +34,28 @@ const aristofanischionis = {
 
 > 🏆 28 Contributions in the Year 2021
  > 
-> 📦 273.2 kB Used in GitHub's Storage 
+> 📦 274.8 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
 > 📜 46 Public Repositories 
  > 
-> 🔑 8 Private Repositories  
+> 🔑 9 Private Repositories  
  > 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               12 repos            ████████░░░░░░░░░░░░░░░░░   35.29% 
-C                        10 repos            ███████░░░░░░░░░░░░░░░░░░   29.41% 
-Python                   4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76% 
-HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.88% 
-TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.88%
+JavaScript               13 repos            █████████░░░░░░░░░░░░░░░░   37.14% 
+C                        10 repos            ███████░░░░░░░░░░░░░░░░░░   28.57% 
+Python                   4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.43% 
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.71% 
+TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.71%
 
 ```
 
 
 
- Last Updated on 10/11/2021
+ Last Updated on 11/11/2021
 <!--END_SECTION:waka-->
 **These Readme stats are generated using the github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**. 
 
