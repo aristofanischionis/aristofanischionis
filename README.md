@@ -48,14 +48,14 @@ const aristofanischionis = {
 JavaScript               13 repos            █████████░░░░░░░░░░░░░░░░   36.11% 
 C                        10 repos            ███████░░░░░░░░░░░░░░░░░░   27.78% 
 Python                   4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
-HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.56% 
 TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.56%
 
 ```
 
 
 
- Last Updated on 04/12/2021
+ Last Updated on 05/12/2021
 <!--END_SECTION:waka-->
 **These Readme stats are generated using the github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**. 
 
