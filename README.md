@@ -32,30 +32,30 @@ const aristofanischionis = {
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 🏆 28 Contributions in the Year 2021
+> 🏆 38 Contributions in the Year 2021
  > 
-> 📦 299.3 kB Used in GitHub's Storage 
+> 📦 318.8 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 46 Public Repositories 
+> 📜 47 Public Repositories 
  > 
 > 🔑 11 Private Repositories  
  > 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               13 repos            ████████░░░░░░░░░░░░░░░░░   34.21% 
-C                        10 repos            ██████░░░░░░░░░░░░░░░░░░░   26.32% 
-Python                   4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.53% 
-HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.89% 
-TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.26%
+JavaScript               13 repos            ████████░░░░░░░░░░░░░░░░░   33.33% 
+C                        10 repos            ██████░░░░░░░░░░░░░░░░░░░   25.64% 
+Python                   4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.26% 
+HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.69% 
+Jupyter Notebook         3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.69%
 
 ```
 
 
 
- Last Updated on 07/12/2021
+ Last Updated on 08/12/2021
 <!--END_SECTION:waka-->
 **These Readme stats are generated using the github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**. 
 
