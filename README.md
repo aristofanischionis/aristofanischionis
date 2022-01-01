@@ -32,7 +32,7 @@ const aristofanischionis = {
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 🏆 38 Contributions in the Year 2021
+> 🏆 0 Contributions in the Year 2022
  > 
 > 📦 318.9 kB Used in GitHub's Storage 
  > 
@@ -55,7 +55,7 @@ Jupyter Notebook         3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 31/12/2021
+ Last Updated on 01/01/2022
 <!--END_SECTION:waka-->
 **These Readme stats are generated using the github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**. 
 
