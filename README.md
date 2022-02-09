@@ -59,5 +59,5 @@ Jupyter Notebook         3 repos             ██░░░░░░░░░�
 <!--END_SECTION:waka-->
 **These Readme stats are generated using the github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**. 
 
-<p><em>My bitcoin address is: 1PEQEYhomemqyZx7JiX33fT5w6mE4DLK1b</em></p>
-<img align='left' src="https://github.com/aristofanischionis/aristofanischionis/blob/master/my_bitcoin_address.png" width="200">
+<!-- <p><em>My bitcoin address is: 1PEQEYhomemqyZx7JiX33fT5w6mE4DLK1b</em></p>
+<img align='left' src="https://github.com/aristofanischionis/aristofanischionis/blob/master/my_bitcoin_address.png" width="200"> -->
