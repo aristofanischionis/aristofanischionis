@@ -45,17 +45,17 @@ const aristofanischionis = {
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               13 repos            ████████░░░░░░░░░░░░░░░░░   32.5% 
-C                        10 repos            ██████░░░░░░░░░░░░░░░░░░░   25.0% 
-Python                   5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
-HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.5% 
-Jupyter Notebook         3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.5%
+JavaScript               13 repos            ████████░░░░░░░░░░░░░░░░░   31.71% 
+C                        10 repos            ██████░░░░░░░░░░░░░░░░░░░   24.39% 
+Python                   6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.63% 
+HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.32% 
+Jupyter Notebook         3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.32%
 
 ```
 
 
 
- Last Updated on 02/10/2022 18:50:09 UTC
+ Last Updated on 03/10/2022 18:56:32 UTC
 <!--END_SECTION:waka-->
 **These Readme stats are generated using the github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**. 
 
