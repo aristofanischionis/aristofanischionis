@@ -1,8 +1,10 @@
 <h2> Welcome to my GitHub, I'm Aristofanis</h2>
 <!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"> -->
 
-<p><em>I am currently working as part of the Red Team @<a href="https://danskebank.dk/">Danske Bank</a></em> :bank:</p>
-<p><em>Graduating soon with an MSc degree in Computer Science, specializing in Cyber Security from <a href="https://www.dtu.dk/">DTU</a></em> :mortar_board:</p> 
+<p><em>I am currently working as Associate IT Security Engineer - Red Team - at <a href="https://danskebank.dk/" target="_blank" rel="noopener noreferrer">Danske Bank</a></em> :bank:</p>
+<p><em>I hold an MSc degree in Computer Science, specializing in Cyber Security from <a href="https://www.dtu.dk/" target="_blank" rel="noopener noreferrer">DTU</a></em> :mortar_board:</p> 
+<p><em>I hold a BSc degree in Computer Science, specializing in Software Engineering from the <a href="https://www.di.uoa.gr/en" target="_blank" rel="noopener noreferrer">Department of Informatics & Telecommunications - University of Athens</a></em> :mortar_board:</p> 
+<p><em>Before starting my career in CyberSecurity, I worked as a FullStack Web Developer for 3 years.</p> 
 
 Featured projects:
 1. <a href="https://github.com/cern/slides">CERN Slides App</a>, which I developed while working @<a href="https://cern.ch/">CERN</a>.
