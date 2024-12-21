@@ -1,4 +1,4 @@
-<h2> Welcome to my GitHub, I'm Aristos </h2>
+<h2> Welcome to my GitHub, I'm Aristofanis </h2>
 <!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"> -->
 
 <p><em>I am currently working as Associate Cyber Security Engineer - Red Team - at <a href="https://danskebank.dk/" target="_blank" rel="noopener noreferrer">Danske Bank</a></em> :bank:</p>
