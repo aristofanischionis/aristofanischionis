@@ -1,11 +1,36 @@
-<h2> Welcome to my GitHub, I'm Aristofanis </h2>
-<!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"> -->
+### Hi, I'm Aristofanis 👋
 
-<p><em>I am currently working as Associate Cyber Security Engineer - Red Team - at <a href="https://danskebank.dk/" target="_blank" rel="noopener noreferrer">Danske Bank</a></em> :bank:</p>
-<p><em>I hold an MSc degree in Computer Science, specializing in Cyber Security from <a href="https://www.dtu.dk/" target="_blank" rel="noopener noreferrer">DTU</a></em> :mortar_board:</p> 
-<p><em>I hold a BSc degree in Computer Science, specializing in Software Engineering from the <a href="https://www.di.uoa.gr/en" target="_blank" rel="noopener noreferrer">Department of Informatics & Telecommunications - University of Athens</a></em> :mortar_board:</p> 
-<p><em>Before starting my career in CyberSecurity, I worked as a FullStack Web Developer for 3 years.</p> 
+**Founder & Lead Pentester at [IMIZI Cyber](https://imizicyber.com)** - OSCP+ certified penetration testing and red team operations for financial institutions in East Africa.
 
-Featured projects:
-1. <a href="https://github.com/cern/slides">CERN Slides App</a>, which I developed while working @<a href="https://cern.ch/">CERN</a>.
-2. <a href="https://github.com/honeynet/honeyscanner">Honeyscanner</a>, which I developed as part of my participation in Google Summer of Code 2023.
+---
+
+🔴 **Currently**: Building [IMIZI Cyber](https://imizicyber.com) — offensive security consultancy in Kigali, Rwanda  
+🏦 **Previously**: Senior Cyber Security Consultant and Engineer at [Yinkozi Middle East](https://www.yinkozi.com/) · Internal Red Team and Penetration Tester at [Danske Bank](https://danskebank.com)
+🎤 **Speaker**: [BlackHat Europe 2023](https://blackhat.com/eu-23/arsenal/schedule/#honeyscanner-a-vulnerability-analyzer-for-honeypots-35048) Arsenal — Honeyscanner  
+🐝 **Open Source**: [Google Summer of Code](https://summerofcode.withgoogle.com/) 2023 contributor & 2024 mentor @ [Honeynet Project](https://www.honeynet.org/)  
+🔬 **Past**: FullStack Web Developer at [CERN](https://home.cern/) · Web Developer at [Nordea](https://www.nordea.com/)  
+🎓 **Education**: MSc Computer Security @ [DTU Denmark](https://www.dtu.dk/) · BSc Computer Science @ [University of Athens](https://www.di.uoa.gr/)
+
+---
+
+#### 🛡 Certifications
+
+`OSCP+` · `OSCP` · `PNPT` · `PJPT`
+
+#### 🔥 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| [🐝 Honeyscanner](https://github.com/honeynet/honeyscanner) | Vulnerability analyzer for honeypots — my MSc thesis & GSoC 2023 project |
+| [🏢 IMIZI Cyber GitHub](https://github.com/imizicyber) | Open-source security resources for East African organizations |
+| [🖥 CERN Slides](https://github.com/CERN/slides) | Web-based presentation tool, developed during my time at CERN |
+
+#### 📝 Latest from IMIZI Cyber
+
+- [Red Team Operations Architecture Map](https://imizicyber.com/blog/red-team-operations-map) - Interactive tool & technique reference mapped to MITRE ATT&CK
+- [How to Safely Onboard AI in Your Organization](https://imizicyber.com/blog/ai-security-guide) — CISO guide for 2026
+- [BNR Compliance Checklist](https://github.com/imizicyber/bnr-compliance-checklist) — Free compliance resource for Rwandan banks
+
+---
+
+📧 info@imizicyber.com · 🌐 [imizicyber.com](https://imizicyber.com) · 💼 [LinkedIn](https://linkedin.com/in/aristofanischionis)
