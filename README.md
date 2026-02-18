@@ -1,14 +1,16 @@
-### Hi, I'm Aristofanis 👋
+### Hi, I'm Aristos 👋
 
-**Founder & Lead Pentester at [IMIZI Cyber](https://imizicyber.com)** - OSCP+ certified penetration testing and red team operations for financial institutions in East Africa.
+**Founder & Lead Pentester at [IMIZI Cyber](https://imizicyber.com)** — Offensive security consultancy serving financial institutions across East Africa.
+
+📍 Based in **Kigali, Rwanda**
 
 ---
 
-🔴 **Currently**: Building [IMIZI Cyber](https://imizicyber.com) — offensive security consultancy in Kigali, Rwanda  
-🏦 **Previously**: Senior Cyber Security Consultant and Engineer at [Yinkozi Middle East](https://www.yinkozi.com/) · Internal Red Team and Penetration Tester at [Danske Bank](https://danskebank.com)
-🎤 **Speaker**: [BlackHat Europe 2023](https://blackhat.com/eu-23/arsenal/schedule/#honeyscanner-a-vulnerability-analyzer-for-honeypots-35048) Arsenal — Honeyscanner  
+🔴 **Building**: [IMIZI Cyber](https://imizicyber.com) — penetration testing, red team operations & security consulting for BNR-regulated institutions  
+🏦 **Current**: Senior Cyber Security Consultant at [Yinkozi](https://www.yinkozi.com/) — penetration testing engagements for Tier-1 African banks and security engineering for fintech products  
+🎤 **Speaker**: [BlackHat Europe 2023](https://blackhat.com/eu-23/arsenal/schedule/#honeyscanner-a-vulnerability-analyzer-for-honeypots-35048) Arsenal — Honeyscanner: A Vulnerability Analyzer for Honeypots  
 🐝 **Open Source**: [Google Summer of Code](https://summerofcode.withgoogle.com/) 2023 contributor & 2024 mentor @ [Honeynet Project](https://www.honeynet.org/)  
-🔬 **Past**: FullStack Web Developer at [CERN](https://home.cern/) · Web Developer at [Nordea](https://www.nordea.com/)  
+🔬 **Previously**: Internal Red Team at [Danske Bank](https://danskebank.com) · FullStack Developer at [CERN](https://home.cern/) · Developer at [Nordea](https://www.nordea.com/)  
 🎓 **Education**: MSc Computer Security @ [DTU Denmark](https://www.dtu.dk/) · BSc Computer Science @ [University of Athens](https://www.di.uoa.gr/)
 
 ---
@@ -17,20 +19,36 @@
 
 `OSCP+` · `OSCP` · `PNPT` · `PJPT`
 
-#### 🔥 Featured Projects
+#### 💼 What I Do
 
-| Project | Description |
-|---------|-------------|
-| [🐝 Honeyscanner](https://github.com/honeynet/honeyscanner) | Vulnerability analyzer for honeypots — my MSc thesis & GSoC 2023 project |
-| [🏢 IMIZI Cyber GitHub](https://github.com/imizicyber) | Open-source security resources for East African organizations |
-| [🖥 CERN Slides](https://github.com/CERN/slides) | Web-based presentation tool, developed during my time at CERN |
+- Web application, mobile application & API penetration testing
+- Network & infrastructure penetration testing
+- Red team operations & adversary simulation
+- Security validation & engineering for mobile SDKs
+- Cybersecurity compliance assessments (BNR, NIST, OWASP)
 
-#### 📝 Latest from IMIZI Cyber
+#### 🌍 Experience Across
 
-- [Red Team Operations Architecture Map](https://imizicyber.com/blog/red-team-operations-map) - Interactive tool & technique reference mapped to MITRE ATT&CK
-- [How to Safely Onboard AI in Your Organization](https://imizicyber.com/blog/ai-security-guide) — CISO guide for 2026
-- [BNR Compliance Checklist](https://github.com/imizicyber/bnr-compliance-checklist) — Free compliance resource for Rwandan banks
+Penetration testing, cyber security consulting, and training delivered across **Rwanda, South Africa, Kenya, Mozambique, Seychelles, Uganda, Denmark, Qatar, UAE & Greece** for banking, fintech, government, and enterprise clients.
 
 ---
 
-📧 info@imizicyber.com · 🌐 [imizicyber.com](https://imizicyber.com) · 💼 [LinkedIn](https://linkedin.com/in/aristofanischionis)
+#### 🔥 Featured Projects
+
+| Project | Description |
+| --- | --- |
+| [🐝 Honeyscanner](https://github.com/honeynet/honeyscanner) | Vulnerability analyzer for honeypots — MSc thesis, GSoC 2023, presented at BlackHat Europe |
+| [🏢 IMIZI Cyber](https://github.com/imizicyber) | Open-source security resources for East African organizations |
+| [🖥 CERN Slides](https://github.com/CERN/slides) | Web-based presentation tool developed at CERN |
+
+#### 📝 Latest from IMIZI Cyber Blog
+
+- [What is VAPT and Why Rwandan Banks Need It](https://imizicyber.com/blog/vapt-rwanda)
+- [How Much Does a Penetration Test Cost in Rwanda?](https://imizicyber.com/blog/pentest-cost-rwanda)
+- [BNR Cybersecurity Requirements for Financial Institutions](https://imizicyber.com/blog/bnr-cybersecurity-requirements)
+- [Penetration Testing vs Vulnerability Scanning](https://imizicyber.com/blog/pentest-vs-vulnerability-scanning)
+- [USSD Security Testing Guide](https://imizicyber.com/blog/ussd-security-testing)
+
+---
+
+📧 [info@imizicyber.com](mailto:info@imizicyber.com) · 🌐 [imizicyber.com](https://imizicyber.com) · 💼 [LinkedIn](https://linkedin.com/in/aristofanischionis)
